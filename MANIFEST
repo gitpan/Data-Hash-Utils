@@ -1,0 +1,8 @@
+Changes
+MANIFEST
+Makefile.PL
+Util.xs
+lib/Data/Util.pm
+lib/Hash/Util.pm
+t/Data.t
+t/Hash.t
